@@ -126,8 +126,11 @@ Apasionado por resolver problemas con código y el aprendizaje continuo. Mi cami
 ## 🌱 Actualmente Aprendiendo
 
 🔥 Bootcamp de Git & GitHub - Código Facilito Sep25 a Dic25
+
 🔥 Bootcamp AI Engineer con Python - Código Facilito Inicia en Enero del 2026
+
 🔥 Bootcamp .NET 9 y Minimal APIs - Código Facilito inicia en Abril del 2026
+
 🔥 Libro: "Código Sostenible: Cómo programar código fácil de mantener" – Carlos Blé Jurado
 
 ---
