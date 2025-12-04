@@ -53,7 +53,7 @@ Soy un **Técnico Informático** apasionado por los **sistemas Linux**, la **aut
 - 🎯 **Google It Support Profesional Certificate** (En proceso, principios 2026)
 - 🎯 **CFGS Desarrollo de Aplicaciones Web** - Ilerna (Finalización: 2025)
 - 🎯 **Campus 42 Barcelona** - Formación intensiva en C (Junio 2024-Noviembre 2024)
-- 📜 **Grado en Derecho** - Universitat Oberta de Catalunya (Finalización: 2026)
+- 📜 **Grado en Derecho** - Universitat Oberta de Catalunya (Finalización: 2016)
 
 ### 📚 Complementos de Formación
 
